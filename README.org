@@ -1,0 +1,10 @@
+* arrows
+
+Implements -> and ->> from Clojure, as well as several expansions on the idea.
+
+|---------+-------------------------------------------|
+| source  | git:https://gitlab.com/Harleqin/arrows.git   |
+| commit  | df7cf00  |
+| systems | arrows |
+|---------+-------------------------------------------|
+
